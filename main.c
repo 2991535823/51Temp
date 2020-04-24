@@ -1,4 +1,4 @@
-#include "public.h"
+#include "public.h"//引入头文件
 #include "lcd.h"
 #include "temp.h"
 #include "i2c.h"
